@@ -1,3 +1,6 @@
+# Autor: Dr. Christian Mauricio Castillo Estrada
+# Universidad Autónoma de Chiapas - LIDTS Facultad de Negocios
+
 import numpy as np
 from matplotlib import pyplot as plt
 
